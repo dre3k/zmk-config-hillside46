@@ -1,7 +1,9 @@
 # Hillside ZMK firmware
 
 ![hillside](https://imgur.com/emWDXiT.png)
-[![Build](https://github.com/mmccoyd/zmk-config/actions/workflows/build.yml/badge.svg)](https://github.com/mmccoyd/zmk-config/actions/workflows/build.yml)
+
+
+[![Build](https://github.com/dre3k/zmk-config-hillside46/actions/workflows/build.yml/badge.svg)](https://github.com/dre3k/zmk-config-hillside46/actions/workflows/build.yml)
 
 This is the [ZMK](https://zmk.dev/docs) firmware
  for the [Hillside](https://github.com/mmccoyd/hillside) family of split ergonomic keyboards.
